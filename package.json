@@ -1,0 +1,17 @@
+{
+  "name": "yieldsync-mindmap",
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "@astrojs/react": "^4.4.2",
+    "@xyflow/react": "^12.10.0",
+    "astro": "^5.17.2",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "reactflow": "^11.11.4"
+  }
+}
